@@ -2,6 +2,7 @@
 
 ```bash
 npm install
+mkdir uploads
 node app.js
 ```
 
